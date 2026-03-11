@@ -1,0 +1,5 @@
+{
+  "name": "Painel de Análise Preditiva de Mercado",
+  "description": "Analista quantitativo que analisa dados de mercado em tempo real e calcula probabilidades matemáticas de movimento de preço.",
+  "requestFramePermissions": ["display-capture"]
+}
